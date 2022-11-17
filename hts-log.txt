@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Nov 2022 20:40:21 at https://elcomercio.pe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://elcomercio.pe/ -O1 "C:\My Web Sites\ProyecoElComercio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:40:44	Error: 	Exit requested by shell or user
+20:40:45	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/reviu
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/cc/digital/ (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/winback/ (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/extranjeros/ (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/universitarios/ (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/colaboradores/ (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/corporativos/ (from https://elcomercio.pe/)
+20:40:46	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/ak.m (from https://elcomercio.pe/)
+20:40:46	Error: 	"Not Found" (404) at link https://elcomercio.pe/ak.t (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/politica/en-vivo-kenji-fujimori-pj-anuncia-este-martes-si-excongresista-es-condenado-o-no-a-prision-efectiva-por-caso-mamanivideos-fiscalia-pide-12-anos-de-prision-video-poder-judicial-pedro-pablo-kuczynski-ppk-caso-mamanivideos-moises-mamani-rmmn-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/politica/en-vivo-kenji-fujimori-pj-anuncia-este-martes-si-excongresista-es-condenado-o-no-a-prision-efectiva-por-caso-mamanivideos-fiscalia-pide-12-anos-de-prision-video-poder-judicial-pedro-pablo-kuczynski-ppk-caso-mamanivideos-moises-mamani-rmmn-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/respuestas/quien/a-quienes-se-les-paga-el-bono-alimentario-hoy-fechas-de-pago-grupos-de-beneficiarios-y-mas-consultas-via-midis-bono-de-270-soles-tdex-revtli-noticia/?ref=ecr
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/respuestas/quien/a-quienes-se-les-paga-el-bono-alimentario-hoy-fechas-de-pago-grupos-de-beneficiarios-y-mas-consultas-via-midis-bono-de-270-soles-tdex-revtli-noticia/?ref=ecr (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/economia/mercados/precio-dolar-en-peru-hoy-tipo-de-cambio-este-miercoles-16-de-noviembre-compra-y-venta-dolares-a-soles-dolar-de-hoy-bcr-banco-central-de-reserva-rmmn-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/economia/mercados/precio-dolar-en-peru-hoy-tipo-de-cambio-este-miercoles-16-de-noviembre-compra-y-venta-dolares-a-soles-dolar-de-hoy-bcr-banco-central-de-reserva-rmmn-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-martes-15-de-noviembre-del-2022-que-dicen-las-predicciones-para-tu-signo-zodiacal-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-martes-15-de-noviembre-del-2022-que-dicen-las-predicciones-para-tu-signo-zodiacal-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/respuestas/aguinaldos-2022-en-venezuela-cuando-empiezan-los-pagos-montos-y-quienes-son-beneficiarios-trabajadores-publicos-tdex-revtli-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/respuestas/aguinaldos-2022-en-venezuela-cuando-empiezan-los-pagos-montos-y-quienes-son-beneficiarios-trabajadores-publicos-tdex-revtli-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/respuestas/como/link-ingreso-solidario-2022-consulta-con-cedula-si-eres-uno-de-los-beneficiarios-y-cuando-comienza-a-pagarse-via-dps-prosperidad-social-sisben-tdex-revtli-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/respuestas/como/link-ingreso-solidario-2022-consulta-con-cedula-si-eres-uno-de-los-beneficiarios-y-cuando-comienza-a-pagarse-via-dps-prosperidad-social-sisben-tdex-revtli-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/respuestas/quien/quienes-cobran-el-ingreso-solidario-en-noviembre-2022-fecha-de-pago-monto-y-mas-del-ultimo-giro-del-ano-via-prosperidad-social-dps-bono-500-mil-pesos-petro-tdex-revtli-noticia/?ref=ecr
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/respuestas/quien/quienes-cobran-el-ingreso-solidario-en-noviembre-2022-fecha-de-pago-monto-y-mas-del-ultimo-giro-del-ano-via-prosperidad-social-dps-bono-500-mil-pesos-petro-tdex-revtli-noticia/?ref=ecr (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/respuestas/quien/bono-500-e-ingreso-solidario-cuando-se-podra-cobrar-beneficiarios-y-mas-del-subsidio-con-miras-al-2023-prosperidad-social-tdex-revtli-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/respuestas/quien/bono-500-e-ingreso-solidario-cuando-se-podra-cobrar-beneficiarios-y-mas-del-subsidio-con-miras-al-2023-prosperidad-social-tdex-revtli-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/videos/entretenimiento/la-tinka-conoce-el-resultado-del-sorteo-para-el-02112022-sorteo-loteria-millonario-ganador-billete-nnav-amtv-video-noticia/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/videos/entretenimiento/la-tinka-conoce-el-resultado-del-sorteo-para-el-02112022-sorteo-loteria-millonario-ganador-billete-nnav-amtv-video-noticia/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/economia/personal/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/economia/personal/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/suscripciones/?ref=btn-suscribete-elcomercio&loc=
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/suscripciones/?ref=btn-suscribete-elcomercio&loc= (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/ultimas-noticias/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/ultimas-noticias/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/mundial/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/mundial/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/newsletters/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/newsletters/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/corresponsales-escolares/
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/corresponsales-escolares/ (from https://elcomercio.pe/)
+20:40:50	Warning: 	File not added due to mirror cancel: https://elcomercio.pe/reviu
+20:40:50	Error: 	"mirror stopped by user" (-1) at link https://elcomercio.pe/reviu (from https://elcomercio.pe/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 49 links scanned, 23 files written (3565272 bytes overall) [2719277 bytes received at 93768 bytes/sec], 13914193 bytes transferred using HTTP compression in 24 files, ratio 19%, 1.8 requests per connection
+(26 errors, 17 warnings, 0 messages)
